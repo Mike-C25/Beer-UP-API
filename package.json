@@ -1,0 +1,26 @@
+{
+  "name": "beer-up-api",
+  "version": "1.0.0",
+  "description": "backend for Beer UP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike-C25/Beer-UP-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike-C25/Beer-UP-API/issues"
+  },
+  "homepage": "https://github.com/Mike-C25/Beer-UP-API#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "morgan": "^1.8.2"
+  }
+}
